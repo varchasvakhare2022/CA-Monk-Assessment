@@ -3,7 +3,6 @@ import { useParams, Link } from 'react-router-dom';
 import { Skeleton } from '@/components/ui/skeleton';
 import { Button } from '@/components/ui/button';
 import { ArrowLeft, Share2, ThumbsUp, MessageSquare } from 'lucide-react';
-import { Footer } from './Footer';
 
 export const BlogDetails = () => {
     const { id } = useParams();

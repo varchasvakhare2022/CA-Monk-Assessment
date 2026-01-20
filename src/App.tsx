@@ -2,7 +2,6 @@ import { Routes, Route } from 'react-router-dom';
 import { MainLayout } from '@/components/MainLayout';
 import { BlogDetails } from '@/components/BlogDetails';
 import { CreateBlogForm } from '@/components/CreateBlogForm';
-import { Footer } from '@/components/Footer';
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 
